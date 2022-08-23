@@ -66,7 +66,7 @@
 > - **Hypothesis 1 -**
 > - alpha = .05
 > - $H_0$: Is churn independant of payment type. $\mu_{churn}$ independent $\mu_{payment type}$ (pval > alpha).  
-> - $H_a$: Rejection of Null $\mu_{virginica}$ ~~independent~~  $\mu_{versicolor}$ (pval <= alpha). 
+> - $H_a$: Rejection of Null $\mu_{churn}$ ~~independent~~  $\mu_{payment type}$ (pval <= alpha). 
 > - Outcome: Sufficient evidence to reject our null hypothesis
 
 > - **Hypothesis 2 -** 
